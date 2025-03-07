@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 I'm a graduate student at UIUC, majoring in Information Sciences.
 
-researching **LLM**, specializing in **domain-specific LLM** and **multi LLM agents**.
+My research interets focus on **LLM**, specializing in **domain-specific LLM** and **multi LLM agents**.
 
 I completed my undergradute studies at Renmin University of China, majoring in Economics, Politics and Philosophy.
 
