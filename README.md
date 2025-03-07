@@ -29,17 +29,14 @@ I'm seeking a **full-time MLE position** in the Bay area or remote.
 ### [🔗 MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents](https://www.arxiv.org/abs/2503.01935) 
 [![MultiAgentBench](https://github-readme-stats.vercel.app/api/pin/?username=MultiagentBench&repo=MARBLE&theme=radical)](https://github.com/MultiagentBench/MARBLE)
 
----
 
 ### [🔗 RAG: Retrieval-Augmented Generation](https://github.com/Shuyi1011/RAG)
 [![RAG](https://github-readme-stats.vercel.app/api/pin/?username=Shuyi1011&repo=RAG&theme=tokyonight)](https://github.com/Shuyi1011/RAG)
 
----
 
 ### [🔗 AI-System: Building Scalable AI Workflows](https://github.com/Shuyi1011/AI-system)
 [![AI-System](https://github-readme-stats.vercel.app/api/pin/?username=Shuyi1011&repo=AI-system&theme=merko)](https://github.com/Shuyi1011/AI-system)
 
----
 
 ### [🔗 MLE algorithm topics: Traditional algorithms & Deep learning](https://github.com/Shuyi1011/ML-learning)
 [![MLE algorithm topics](https://github-readme-stats.vercel.app/api/pin/?username=Shuyi1011&repo=ML-learning&theme=merko)](https://github.com/Shuyi1011/ML-learning)
@@ -55,3 +52,7 @@ I'm seeking a **full-time MLE position** in the Bay area or remote.
 ## 📫 Contact Me
 - ✉️ Email: guoshuyi1011@gmail.com
 - 🌐 LinkedIn: [Let's connect!](https://www.linkedin.com/in/shuyi-guo-033035230/)
+- 🎓 Google Scholar: [Shuyi Guo](https://scholar.google.com/citations?user=3xN44dcAAAAJ&hl=zh-CN)
+
+## ❤️ Proudly introduce my best friend -- Tangbao汤包
+<img src="https://github.com/user-attachments/assets/eadbc9b4-2f7e-48a6-babe-b864fa8060a3" width="300">
