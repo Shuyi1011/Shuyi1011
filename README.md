@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi there, I'm Shuyi淑怡!
 Welcome to my GitHub profile! 
-📄 **[Download My CV (last updated: Mar/05/2025)](https://github.com/Shuyi1011/Shuyi1011/raw/main/Shuyi_CV.pdf)**
+📄 **[Download My CV (last updated: Mar/05/2025)](https://github.com/Shuyi1011/Shuyi1011/blob/main/ShuyiGuo_MLE.pdf)**
 
 I'm a graduate student at UIUC, majoring in Information Sciences.
 
