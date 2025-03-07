@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 
 # 👋 Hi there, I'm Shuyi淑怡!
 Welcome to my GitHub profile! 
+📄 **[Download My CV (last updated: Mar/05/2025)](https://github.com/Shuyi1011/Shuyi1011/raw/main/Shuyi_CV.pdf)**
 
 I'm a graduate student at UIUC, majoring in Information Sciences.
 
-My research interets focus on **LLM**, specializing in **domain-specific LLM** and **multi LLM agents**.
+My research interests focus on **LLM**, particularly in **domain-specific LLM** and **multi LLM agents**.
 
 I completed my undergradute studies at Renmin University of China, majoring in Economics, Politics and Philosophy.
 
