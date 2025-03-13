@@ -27,20 +27,18 @@ I completed my undergradute studies at Renmin University of China, majoring in E
 I'm seeking a **full-time MLE position** in the Bay area or remote. 
 
 ## 🔭 Current Work
-### [🔗 MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents](https://www.arxiv.org/abs/2503.01935) 
-[![MultiAgentBench](https://github-readme-stats.vercel.app/api/pin/?username=MultiagentBench&repo=MARBLE&theme=radical)](https://github.com/MultiagentBench/MARBLE)
 
+### [🔗 MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents](https://www.arxiv.org/abs/2503.01935) 
+[![MultiAgentBench](https://github-readme-stats.vercel.app/api/pin/?username=MultiagentBench&repo=MARBLE&theme=radical&timestamp=20250307)](https://github.com/MultiagentBench/MARBLE)
 
 ### [🔗 RAG: Retrieval-Augmented Generation](https://github.com/Shuyi1011/RAG)
-[![RAG](https://github-readme-stats.vercel.app/api/pin/?username=Shuyi1011&repo=RAG&theme=tokyonight)](https://github.com/Shuyi1011/RAG)
-
+[![RAG](https://github-readme-stats.vercel.app/api/pin/?username=Shuyi1011&repo=RAG&theme=tokyonight&timestamp=20250307)](https://github.com/Shuyi1011/RAG)
 
 ### [🔗 AI-System: Building Scalable AI Workflows](https://github.com/Shuyi1011/AI-system)
-[![AI-System](https://github-readme-stats.vercel.app/api/pin/?username=Shuyi1011&repo=AI-system&theme=merko)](https://github.com/Shuyi1011/AI-system)
-
+[![AI-System](https://github-readme-stats.vercel.app/api/pin/?username=Shuyi1011&repo=AI-system&theme=merko&timestamp=20250307)](https://github.com/Shuyi1011/AI-system)
 
 ### [🔗 MLE algorithm topics: Traditional algorithms & Deep learning](https://github.com/Shuyi1011/ML-learning)
-[![MLE algorithm topics](https://github-readme-stats.vercel.app/api/pin/?username=Shuyi1011&repo=ML-learning&theme=merko)](https://github.com/Shuyi1011/ML-learning)
+[![MLE algorithm topics](https://github-readme-stats.vercel.app/api/pin/?username=Shuyi1011&repo=ML-learning&theme=merko&timestamp=20250307)](https://github.com/Shuyi1011/ML-learning)
 
 ## 🛠 Skills
 - **Programming**: Python
