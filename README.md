@@ -26,9 +26,13 @@ I completed my undergradute studies at Renmin University of China, majoring in E
 
 I'm seeking a **full-time MLE position** in the Bay area or remote. 
 
+## 📰 Recent News
+🎉 **May 2025**: My co-first-authored paper "MultiAgentBench" is accepted to **ACL 2025 Main Conference** !
+
 ## 🔭 Current Work
 
 ### [🔗 MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents](https://www.arxiv.org/abs/2503.01935) 
+
 [![MultiAgentBench](https://github-readme-stats.vercel.app/api/pin/?username=MultiagentBench&repo=MARBLE&theme=radical&timestamp=20250307)](https://github.com/MultiagentBench/MARBLE)
 
 ### [🔗 RAG: Retrieval-Augmented Generation](https://github.com/Shuyi1011/RAG)
