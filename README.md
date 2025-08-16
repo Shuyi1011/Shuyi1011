@@ -24,7 +24,7 @@ My research interests focus on **LLM**, particularly in **domain-specific LLM** 
 
 I completed my undergradute studies at Renmin University of China, majoring in Economics, Politics and Philosophy.
 
-I'm seeking a **full-time MLE position** in the Bay area or remote. 
+Now I'm working at TikTok(San Jose) as a MLE. 
 
 ## 📰 Recent News
 🎉 **May 2025**: My co-first-authored paper "MultiAgentBench" is accepted to **ACL 2025 Main Conference** !
